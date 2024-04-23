@@ -1,0 +1,14 @@
+C:\Users\Asaph\Desktop\consoleApplication\bin\Debug\net8.0\consoleApplication.exe
+C:\Users\Asaph\Desktop\consoleApplication\bin\Debug\net8.0\consoleApplication.deps.json
+C:\Users\Asaph\Desktop\consoleApplication\bin\Debug\net8.0\consoleApplication.runtimeconfig.json
+C:\Users\Asaph\Desktop\consoleApplication\bin\Debug\net8.0\consoleApplication.dll
+C:\Users\Asaph\Desktop\consoleApplication\bin\Debug\net8.0\consoleApplication.pdb
+C:\Users\Asaph\Desktop\consoleApplication\obj\Debug\net8.0\consoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asaph\Desktop\consoleApplication\obj\Debug\net8.0\consoleApplication.AssemblyInfoInputs.cache
+C:\Users\Asaph\Desktop\consoleApplication\obj\Debug\net8.0\consoleApplication.AssemblyInfo.cs
+C:\Users\Asaph\Desktop\consoleApplication\obj\Debug\net8.0\consoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Asaph\Desktop\consoleApplication\obj\Debug\net8.0\consoleApplication.dll
+C:\Users\Asaph\Desktop\consoleApplication\obj\Debug\net8.0\refint\consoleApplication.dll
+C:\Users\Asaph\Desktop\consoleApplication\obj\Debug\net8.0\consoleApplication.pdb
+C:\Users\Asaph\Desktop\consoleApplication\obj\Debug\net8.0\consoleApplication.genruntimeconfig.cache
+C:\Users\Asaph\Desktop\consoleApplication\obj\Debug\net8.0\ref\consoleApplication.dll
